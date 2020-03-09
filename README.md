@@ -4,6 +4,6 @@ This is the course project for UCSD CSE258: Web Mining and Recommender Systems. 
 
 The exploratory data analysis is in [EDA.ipynb](./EDA.ipynb)
 
-We have used a [Latent Factor Model](./Latent Factor.ipynb), [Random Forests and Neural Networks](./Random Forest & NN.ipynb) to solve this problem. 
+We have used a [Latent Factor Model](./LF.ipynb), [Random Forests and Neural Networks](./RF_NN.ipynb) to solve this problem. 
 
 Final report is [here](./Report.pdf)
